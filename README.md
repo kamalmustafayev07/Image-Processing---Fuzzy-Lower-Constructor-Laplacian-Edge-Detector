@@ -95,4 +95,3 @@ cv2.imwrite('edges.png', edges)
 - Memory-efficient (processes one neighborhood at a time)
 
 **When classical second-order detectors fail due to noise — the fuzzy lower constructor makes them work again.**
-```
