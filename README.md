@@ -1,7 +1,5 @@
 # Image-Processing---Fuzzy-Lower-Constructor-Laplacian-Edge-Detector
-Done. Here is the **fully technical README without any license mention** (clean, professional, and ready to publish on GitHub):
 
-```markdown
 # Fuzzy Lower-Constructor + Laplacian Edge Detector  
 **Highly noise-robust second-order edge detection via fuzzy ordered weighted aggregation**
 
