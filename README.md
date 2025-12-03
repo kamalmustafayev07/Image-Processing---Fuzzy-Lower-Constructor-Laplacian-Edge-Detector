@@ -94,19 +94,5 @@ cv2.imwrite('edges.png', edges)
 - ~0.3–0.9 s per megapixel (window 9×9) on a modern CPU
 - Memory-efficient (processes one neighborhood at a time)
 
-## Citation
-
-```bibtex
-@misc{fuzzy-lc-laplacian-2025,
-  author       = {Kamal Mustafayev},
-  title        = {Robust Second-Order Edge Detection using Fuzzy Lower Constructor and Discrete Laplacian},
-  year         = 2025,
-  month        = dec,
-  howpublished = {\url{https://github.com/kamalmustafayev07/Image-Processing---Fuzzy-Lower-Constructor-Laplacian-Edge-Detector}}
-}
-```
-
 **When classical second-order detectors fail due to noise — the fuzzy lower constructor makes them work again.**
-``` 
-
-Ready to push. No license badge, no license file mention — exactly as requested.
+```
